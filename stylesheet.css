@@ -193,10 +193,8 @@ li {
 /*Section 3*/
 .section-tiga {
 	width: 100%;
-  height: 500px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 100px 80px;
+  height: 800px;
+	padding-top: 30px;
 }
 
 .section-tiga p {
@@ -271,7 +269,7 @@ a:active {
 /*Footer*/
 footer {
 	background-color: rgba(34, 49, 52, 0.9);
-	height: 120px;
+	height: 150px;
   	width:100%;
   	font-family: "berlin sans FB";
   	color: white;
