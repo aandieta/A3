@@ -21,6 +21,11 @@
 		width: 50%;
 	}
 
+	.center {
+		margin: auto;
+		width: 45%;
+	}
+
 	footer{
 		height: 150px;
 	}
@@ -65,7 +70,7 @@
 	}
 	
 	footer {
-		height: 155px;
+		height: 250px;
 		width: 100%;
 		text-align: center;
 		font-size: 15px;
