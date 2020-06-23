@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-body, h1, h2, h3, p {
+body, h1, h2, h3, p , a {
 	margin: 0;
 }
 
@@ -36,7 +36,6 @@ header {
 
 li {
 	list-style: none;
-	
 }
 
 .header-right a {
@@ -71,7 +70,6 @@ li {
 	background-size : cover;
 	padding-top:200px;
 	opacity: 0.9;
-
 }
 
 .container-1{
@@ -80,15 +78,13 @@ li {
 	position: relative;
 	animation: mymove 2.5s;
 	animation-fill-mode: forwards;
-	
 }
 
 .container-1 h1{
 	font-size: 40px;
 	color: white;
-	
-
 }
+
 .container-1 span{
 	font-size: 40px;
 	color: #79d70f;
@@ -98,7 +94,6 @@ li {
 	font-weight: normal;
 	font-size: 16px;
 	color:white;
-
 }
 
 .container-1 p{
@@ -196,7 +191,3 @@ footer {
 	padding-top: 3px;
 	padding-bottom: 3px;
 }
-
-@keyframes mymove {
-  from {right: 300px;}
-  to {right: 0px;}
