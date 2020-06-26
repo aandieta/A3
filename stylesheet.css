@@ -303,3 +303,7 @@ footer {
 	padding-top: 3px;
 	padding-bottom: 3px;
 }
+
+@keyframes mymove {
+  from {right: 300px;}
+  to {right: 0px;}
